@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-	cout <<" Git Test (1) " <<endl;
+	cout <<" Git Test (2) " <<endl;
 }
